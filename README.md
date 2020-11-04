@@ -20,11 +20,11 @@ From the US census bureau, we extracted the county-level data of education attai
 
 We started with initial assumptions and used data to validate these assumptions. The variables we have decided are the economic factors, food availability, stores, education, public services and recreation facilities:
 
-<img src="https://github.com/netisheth/Food-Environment-Effect-On-Obesity/blob/master/pictures/1.jpg" alt="alt text" width="65%" height="65%">
+<img src="https://github.com/netisheth/Food-Environment-Effect-On-Obesity/blob/master/pictures/1.jpg" alt="alt text" width="75%" height="75%">
 
 ## 3. Exploratory Data Analysis
 
-<img src="https://github.com/netisheth/Food-Environment-Effect-On-Obesity/blob/master/pictures/2.png" alt="alt text" width="50%" height="50%">
+<img src="https://github.com/netisheth/Food-Environment-Effect-On-Obesity/blob/master/pictures/2.png" alt="alt text" width="80%" height="80%">
 
 Our dependent variable is obesity rate. We can observe from the map above that all states have more than 20% of adults with obesity. The South - East part of the US has more prevalence than the other regions. In at least 12 states, prevalence of obesity was greater than 32%. Colorado has the least obesity rate and Alabama has the highest. 
 
