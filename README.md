@@ -124,7 +124,7 @@ As we have implemented Linear regression, we have primarily checked for four bas
 -	If more people travel to work by public transportation, obesity can be controlled. 1% increase can reduce obesity by 0.12%.
 -	Education helps to create more awareness about the importance of healthy and active living and can help to reduce obesity. A 1% increase in bachelor graduates, can reduce obesity by 0.19%.
 
-## 7. Recommendationsto County Officials to reduce obesity
+## 7. Recommendations to County Officials to reduce obesity
 
 -	Make healthy food products more affordable with the help of food assistance programs like SNAP(S) (Supplemental Nutrition Assistance Program). Increase of taxes on unhealthy products and subsidies for healthy ones can also help.
 -	Open more recreational facilities for every 1000 population to promote active living.
